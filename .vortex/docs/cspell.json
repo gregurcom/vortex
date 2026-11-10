@@ -85,6 +85,7 @@
         "phpstorm",
         "postbuild",
         "preboot",
+        "prompty",
         "pyrech",
         "redis",
         "renovatebot",
